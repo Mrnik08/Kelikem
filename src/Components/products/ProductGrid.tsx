@@ -1,4 +1,4 @@
-import IndoorImage from "../../assets/images/Indoor.png";
+
 import StreetImage from "../../assets/images/Street.png";
 import Highmast from "../../assets/images/HightMast.jpeg";
 import Decorative from "../../assets/images/Decorative.jpeg";
@@ -111,7 +111,7 @@ const ProductGrid = () => {
             {/* Image Placeholder */}
             <div className="h-40 rounded-xl bg-white/10 mb-5 flex items-center justify-center text-gray-500 text-sm overflow-hidden">
               <img 
-                src={categoryImageMap[product.category] || IndoorImage} 
+                src={categoryImageMap[product.category] } 
                 alt={product.name} 
                 className="w-full h-full object-fill"
               />
