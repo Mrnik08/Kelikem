@@ -12,7 +12,8 @@ import Bracket from "../../assets/images/Bracket.jpeg";
 
 import outdoorgarden from "../../assets/images/outdoorgarden.jpeg";
 import OutdoorBollard from "../../assets/images/OutdoorBollard.jpeg";
-import LedStreetLight from "../../assets/images/LedStreet.jpeg"
+import LedStreetLight from "../../assets/images/LedStreet.jpeg";
+
 
 // import CommercialImage from "../../assets/images/commercial.png";
 import PTZImage from "../../assets/images/ptz.png";
