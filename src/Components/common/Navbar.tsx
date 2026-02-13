@@ -63,9 +63,8 @@ const Navbar = () => {
             <Link onClick={() => setOpen(false)} to="/contact">Contact</Link>
             
 
-            <a href="/getquote" className="mt-4 w-full px-5 py-3 bg-blue-600 rounded-lg font-semibold">
-              Get Quote
-            </a>
+            <button  className="mt-4 w-full px-5 py-3 bg-blue-600 rounded-lg font-semibold"><a href="/getquote">Get Quote</a>
+            </button>
           </div>
         </div>
       )}
