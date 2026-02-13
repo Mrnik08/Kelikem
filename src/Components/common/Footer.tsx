@@ -5,7 +5,7 @@ const Footer = () => {
 
         <div>
           <h3 className="text-xl font-bold mb-4">
-            KALI<span className="text-blue-500">KEM</span>
+            KALI<span className="text-yellow-500">KEM</span>
           </h3>
           <p className="text-sm text-gray-400">
             Premium LED lighting solutions for modern homes, businesses and industries.
